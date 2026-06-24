@@ -51,3 +51,12 @@ Participants will learn to:
 ---
 
 **Department of Artificial Intelligence & Data Science**
+
+
+
+
+
+
+
+Version 2:
+Added Fraud Detection Case Study.
